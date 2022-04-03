@@ -1,0 +1,42 @@
+body{
+    background-size: contain;
+}
+canvas{
+    border:2px solid whitesmoke;
+    border-radius: 10px;
+    margin-top: 150px;
+    box-shadow: 5px 5px 5px whitesmoke;
+}
+.copy_right_footer{
+    position:fixed;
+    color:darkgrey;
+    bottom:0;
+    background-color: aliceblue;
+    text-align: center;
+    width: 100%;
+    line-height: 2;
+}
+ #number_of_objects{
+    font-size: 20px;
+}
+.heading{
+    font-size: 25px;
+    margin: 0px;
+    width: 100%;
+}
+#inputt{
+    width: 25%;
+}
+#btnn{
+    font-size: 20px;
+    background-color: lightblue;
+    width: 12.5%;
+    border-radius: 5px;
+    border:2px solid gray;
+}
+#start{
+    background-color: lightblue; 
+    width: 6.25%;
+    border-radius: 5px;
+    border:2px solid gray;
+}
